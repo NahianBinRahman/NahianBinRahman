@@ -31,6 +31,9 @@
   <a href="https://nahianbinrahman.com" target="_blank">
     <img src="https://img.shields.io/badge/🌐_OFFICIAL_WEBSITE-nahianbinrahman.com-00F2FE?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Website" />
   </a>
+  <a href="https://medium.com/@nahianbinrahman" target="_blank">
+    <img src="https://img.shields.io/badge/✍️_MEDIUM-%40nahianbinrahman-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Profile" />
+  </a>
   <a href="https://www.linkedin.com/in/nahian-bin-rahman/" target="_blank">
     <img src="https://img.shields.io/badge/💼_LINKEDIN-nahian--bin--rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -242,15 +245,21 @@ At **Nahian DeepTech**, we design, build, and deploy production-grade intelligen
 
 ---
 
-## 📖 `06 // TECHNICAL JOURNAL & ESSAYS`
+## 📖 `06 // FEATURED MEDIUM PUBLICATIONS & ESSAYS`
 
 <div align="center">
 
-| Dispatches & Articles | Focus Theme | Read |
-|:---|:---|:---:|
-| 🧠 **How Modern Businesses Are Actually Deploying AI for Operations** | *Beyond conversational wrappers: building resilient autonomous agents that deliver true operational leverage.* | [**Read Dispatch →**](https://nahianbinrahman.com#journal) |
-| ⚡ **The Death of Over-Engineered MVPs: Why Radical Simplicity Wins** | *Architectural blueprint for shipping market-ready digital products in weeks instead of quarters.* | [**Read Dispatch →**](https://nahianbinrahman.com#journal) |
-| 🤖 **Bridging Hardware & Code: Speed, Systems & Scalable Software** | *What robotics prototyping, kinematics, and distributed control teach us about high-velocity software engineering.* | [**Read Dispatch →**](https://nahianbinrahman.com#journal) |
+| Published Article & Research | Domain Focus | Architecture & Core Insights | Medium Link |
+|:---|:---|:---|:---:|
+| 🎬 **Master the Art of Consistent Characters in VEO 3 for Long-Form Videos** | `Generative Video AI` · `VEO 3` | Maintaining visual character fidelity across scene transitions through granular prompt separation, green-screen blueprint references, and last-frame anchoring. | [**Read on Medium ↗**](https://medium.com/@nahianbinrahman) |
+| ⚡ **Embracing the Future of Web Development: Htmx — The React Alternative for Full Stack Developers** | `Full-Stack Architecture` · `HTMX` | Eliminating client-side bundle bloat and state synchronization debt by leveraging hypermedia-driven architecture for lightning-fast server-rendered apps. | [**Read on Medium ↗**](https://medium.com/@nahianbinrahman) |
+| 🛠️ **Deploying a Django Website for Free in 2024: A Step-by-Step Guide to Free Hosting** | `Cloud & DevOps` · `Python / Django` | Comprehensive production blueprint for deploying scalable Django services and cloud PostgreSQL databases under zero-cost infrastructure tiers. | [**Read on Medium ↗**](https://medium.com/@nahianbinrahman) |
+
+<p align="center">
+  <a href="https://medium.com/@nahianbinrahman" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE_ALL_ARTICLES_ON_MEDIUM-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Publications" />
+  </a>
+</p>
 
 </div>
 
@@ -265,6 +274,9 @@ Whether you are looking to architect an autonomous robotics pipeline, deploy cus
 <p align="center">
   <a href="https://nahianbinrahman.com#contact">
     <img src="https://img.shields.io/badge/🚀_LAUNCH_PROJECT-nahianbinrahman.com-00F2FE?style=for-the-badge&logo=rocket&logoColor=black" alt="Start a Project" />
+  </a>
+  <a href="https://medium.com/@nahianbinrahman" target="_blank">
+    <img src="https://img.shields.io/badge/✍️_MEDIUM_PROFILE-READ_ESSAYS-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://wa.me/8801778298484?text=Hi%20Nahian,%20I'd%20like%20to%20discuss%20a%20project.">
     <img src="https://img.shields.io/badge/💬_DIRECT_WHATSAPP-%2B880_1778--298484-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
